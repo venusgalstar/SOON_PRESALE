@@ -1,0 +1,126 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-vtH {
+  width: 100%;
+  height: 295rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #000000;
+}
+.desktop-1-vtH .item-95126013-1-gcZ {
+  width: 144rem;
+  height: 125.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-vtH .frame-3-yrZ {
+  box-sizing: border-box;
+  padding: 4.4rem 6.9rem 3.1rem 8.4rem;
+  width: 144rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(1rem);
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.desktop-1-vtH .frame-3-yrZ .logo-tCq {
+  margin-right: 5.8rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.185;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vtH .frame-3-yrZ .nav-menu-items-Qws {
+  margin: 1.8rem 49.3rem 1.8rem 0rem;
+  height: calc(100% - 3.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-vtH .frame-3-yrZ .nav-menu-items-Qws .how-it-works-wS1 {
+  margin-right: 2.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vtH .frame-3-yrZ .nav-menu-items-Qws .tokenomics-ebK {
+  margin-right: 3.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vtH .frame-3-yrZ .nav-menu-items-Qws .whitepaper-PJ1 {
+  margin-right: 3.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vtH .frame-3-yrZ .nav-menu-items-Qws .whitelist-7jo {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-vtH .frame-3-yrZ .button-3-dTF {
+  width: 19.2rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.185;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  border-radius: 4rem;
+  flex-shrink: 0;
+}

@@ -1,0 +1,201 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 122.6rem;
+}.frame-4-e4q {
+  box-sizing: border-box;
+  padding: 2.3rem 4.5rem 4.1rem 4.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.frame-4-e4q .auto-group-2bnu-9GV {
+  margin: 0rem 52.05rem 2.2rem 46.35rem;
+  width: calc(100% - 98.4rem);
+  height: 8.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-4-e4q .auto-group-2bnu-9GV .value-GM7 {
+  width: 12.4rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 5.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #175fcc;
+  font-family: Franchise, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-e4q .auto-group-2bnu-9GV .amount-500-000001-Nf3 {
+  width: 15.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto Condensed, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-e4q .input-field-tNV {
+  margin: 0rem 42.3rem 1.4rem 36.6rem;
+  box-sizing: border-box;
+  padding: 1.7rem 2rem 1.9rem 2.3rem;
+  width: calc(100% - 78.9rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #175fcc;
+  background-color: #ffffff;
+  border-radius: 4.9rem;
+  flex-shrink: 0;
+}
+.frame-4-e4q .input-field-tNV .item-500-CPB {
+  margin: 0rem 22.1rem 0.1rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #3f3f3f;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-e4q .input-field-tNV .soon-Wuf {
+  margin-top: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-e4q .auto-group-c9qr-R13 {
+  width: 100%;
+  height: 5.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .group-1-k3K {
+  width: 113.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 2.3rem;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .group-1-k3K .rectangle-1-ghf {
+  width: 113.8rem;
+  height: 1rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  border: solid 0.1rem #175fcc;
+  box-sizing: border-box;
+  border-radius: 10rem;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .group-1-k3K .rectangle-2-p3B {
+  width: 7.8rem;
+  height: 1rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  background-color: #175fcc;
+  border-radius: 10rem 0 0 10rem;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .group-1-k3K .item-000001-XCV {
+  width: 3.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.615;
+  color: #040404;
+  font-family: Hind Siliguri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .group-1-k3K .item-1-pBb {
+  width: 1rem;
+  height: 2rem;
+  position: absolute;
+  left: 112.8rem;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.615;
+  color: #040404;
+  font-family: Hind Siliguri, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .frame-5-Ku3 {
+  width: 7rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 0;
+  overflow: hidden;
+  border: solid 0.1rem #175fcc;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .frame-5-Ku3 .usd-UG9 {
+  width: 2.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 2.25rem;
+  top: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #040404;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .frame-5-Ku3 .item-1000-Lp9 {
+  width: 3.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.9rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #040404;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-e4q .auto-group-c9qr-R13 .ellipse-1-2gy {
+  width: 1.4rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 4rem;
+  border: solid 0.1rem #175fcc;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.7rem;
+}
