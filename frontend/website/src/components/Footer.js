@@ -1,6 +1,6 @@
 
 
-function Brand(props) {
+function Footer(props) {
 
     return (
 
@@ -34,5 +34,5 @@ function Brand(props) {
     )
 }
 
-export default Brand;
+export default Footer;
 

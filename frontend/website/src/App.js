@@ -6,7 +6,7 @@ import Status from './components/Status';
 import Intro from './components/Intro';
 import Features from './components/Features';
 import Brand from './components/Brand';
-import Fotter from './components/Footer';
+import Footer from './components/Footer';
 
 function App() {
   return (
