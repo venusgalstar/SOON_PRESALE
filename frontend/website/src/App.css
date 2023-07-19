@@ -13,7 +13,7 @@ input {
 	border: none;
 }
 body {
-  width: 144rem;
+  width: 100%;
 }.desktop-1-nzm {
   width: 100%;
   height: 749.5rem;
@@ -22,14 +22,14 @@ body {
   background-color: rgba(19, 42, 76, 0.75);
 }
 .desktop-1-nzm .auto-group-qbrf-Kzh {
-  width: 168.8rem;
+  width: 100%;
   height: 120.8rem;
   position: absolute;
   left: 0;
   top: 0;
 }
 .desktop-1-nzm .auto-group-qbrf-Kzh .technology-network-background-1-dkV {
-  width: 144rem;
+  width: 100%;
   height: 120.8rem;
   position: relative;
   left: 0;
@@ -577,8 +577,8 @@ body {
 }
 .desktop-1-nzm .auto-group-qbrf-Kzh .frame-3-Wd7 {
   box-sizing: border-box;
-  padding: 1.8rem 6.9rem 1.7rem 6.1rem;
-  width: 144rem;
+  padding: 1.8rem 6.1rem 1.7rem 6.1rem;
+  width: 100%;
   height: 13rem;
   position: absolute;
   left: 0;
@@ -592,14 +592,14 @@ body {
 }
 .desktop-1-nzm .auto-group-qbrf-Kzh .frame-3-Wd7 .soonlogo3-1-DGd {
   margin-right: 5.2rem;
-  width: 9.5rem;
-  height: 9.5rem;
+  width: 120px;
+  height: 120px;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
 .desktop-1-nzm .auto-group-qbrf-Kzh .frame-3-Wd7 .nav-menu-items-sMB {
-  margin: 4.4rem 13.067rem 3.2rem 0rem;
+  margin: 4.4rem 4.4rem 3.2rem 0rem;
   height: calc(100% - 7.6rem);
   display: flex;
   align-items: center;
@@ -713,7 +713,7 @@ body {
   border-radius: 4.1rem;
 }
 .desktop-1-nzm .soongraphic062123png-1-oi1 {
-  width: 144rem;
+  width: 100%;
   height: 105.6rem;
   position: relative;
   left: 0;
@@ -757,7 +757,7 @@ body {
   border-radius: 4rem;
 }
 .desktop-1-nzm .auto-group-ypnh-s5b {
-  width: 144rem;
+  width: 100%;
   height: 146.1rem;
   position: absolute;
   left: 0;
@@ -766,7 +766,7 @@ body {
 .desktop-1-nzm .auto-group-ypnh-s5b .features-D9T {
   box-sizing: border-box;
   padding: 8.9rem 16.7rem 11.4rem 16.5rem;
-  width: 144rem;
+  width: 100%;
   height: 85rem;
   position: absolute;
   left: 0;
@@ -1049,7 +1049,7 @@ body {
 .desktop-1-nzm .auto-group-ypnh-s5b .frame-7-u7P {
   box-sizing: border-box;
   padding: 2.5rem 23.65rem 6.9rem 23.65rem;
-  width: 144rem;
+  width: 100%;
   height: 61.2rem;
   position: absolute;
   left: 0;
@@ -1120,7 +1120,7 @@ body {
 .desktop-1-nzm .auto-group-eqpr-nsK {
   box-sizing: border-box;
   padding: 0.3rem 26.75rem 2.3rem 24.55rem;
-  width: 144rem;
+  width: 100%;
   height: 179.6rem;
   position: absolute;
   left: 0;
@@ -1638,7 +1638,7 @@ body {
   flex-shrink: 0;
 }
 .desktop-1-nzm .x1000-1-Rz1 {
-  width: 144rem;
+  width: 100%;
   height: 97.7rem;
   position: absolute;
   left: 0;
